@@ -1,2 +1,5 @@
 # travelTime_to_dynamic
 ネットワークのリンクデータをダイナミックな旅行時間に拡張する。
+
+https://github.com/bstabler/TransportationNetworks/tree/master
+に記載されているネットワークデータを簡易的な係数を使って時間帯別の旅行時間データに拡張するプログラム。
